@@ -1,3 +1,0 @@
-/home/davide-villani/Desktop/PDE/tde06/1Dpar+Hconverg+settime+DNprob/lab-08/build/CMakeFiles/lab-08-exercise1.dir
-/home/davide-villani/Desktop/PDE/tde06/1Dpar+Hconverg+settime+DNprob/lab-08/build/CMakeFiles/edit_cache.dir
-/home/davide-villani/Desktop/PDE/tde06/1Dpar+Hconverg+settime+DNprob/lab-08/build/CMakeFiles/rebuild_cache.dir
