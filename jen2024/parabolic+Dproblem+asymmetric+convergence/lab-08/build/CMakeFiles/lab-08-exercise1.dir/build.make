@@ -53,10 +53,10 @@ RM = /u/sw/toolchains/gcc-glibc/11.2.0/base/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08
+CMAKE_SOURCE_DIR = /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build
+CMAKE_BINARY_DIR = /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/lab-08-exercise1.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/lab-08-exercise1.dir/progress.make
 include CMakeFiles/lab-08-exercise1.dir/flags.make
 
 CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o: CMakeFiles/lab-08-exercise1.dir/flags.make
-CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o: /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp
+CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o: /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp
 CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o: CMakeFiles/lab-08-exercise1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o -MF CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o.d -o CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o -c /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o"
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o -MF CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o.d -o CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.o -c /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp
 
 CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.i"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp > CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.i
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp > CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.i
 
 CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.s"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp -o CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.s
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/lab-08-exercise1.cpp -o CMakeFiles/lab-08-exercise1.dir/src/lab-08-exercise1.cpp.s
 
 CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o: CMakeFiles/lab-08-exercise1.dir/flags.make
-CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o: /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp
+CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o: /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp
 CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o: CMakeFiles/lab-08-exercise1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o -MF CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o.d -o CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o -c /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o"
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o -MF CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o.d -o CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.o -c /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp
 
 CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.i"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp > CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.i
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp > CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.i
 
 CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.s"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp -o CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.s
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/src/Heat.cpp -o CMakeFiles/lab-08-exercise1.dir/src/Heat.cpp.s
 
 # Object files for target lab-08-exercise1
 lab__08__exercise1_OBJECTS = \
@@ -233,7 +233,7 @@ lab-08-exercise1: /u/sw/toolchains/gcc-glibc/11.2.0/base/lib/libmpi_usempi_ignor
 lab-08-exercise1: /u/sw/toolchains/gcc-glibc/11.2.0/base/lib/libmpi_mpifh.so
 lab-08-exercise1: /u/sw/toolchains/gcc-glibc/11.2.0/base/lib/libmpi.so
 lab-08-exercise1: CMakeFiles/lab-08-exercise1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable lab-08-exercise1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable lab-08-exercise1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab-08-exercise1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -245,6 +245,6 @@ CMakeFiles/lab-08-exercise1.dir/clean:
 .PHONY : CMakeFiles/lab-08-exercise1.dir/clean
 
 CMakeFiles/lab-08-exercise1.dir/depend:
-	cd /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08 /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08 /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles/lab-08-exercise1.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08 /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08 /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles/lab-08-exercise1.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/lab-08-exercise1.dir/depend
 

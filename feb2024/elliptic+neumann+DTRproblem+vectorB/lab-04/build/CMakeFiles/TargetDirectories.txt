@@ -1,3 +1,3 @@
-/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/lab-04.dir
-/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/edit_cache.dir
-/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/rebuild_cache.dir
+/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/lab-04.dir
+/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/edit_cache.dir
+/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/rebuild_cache.dir

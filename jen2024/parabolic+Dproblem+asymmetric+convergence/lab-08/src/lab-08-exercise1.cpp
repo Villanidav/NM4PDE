@@ -26,7 +26,7 @@ main(int argc, char *argv[])
   
    for (const auto &deltat : deltat_vector)
     {
-      Heat problem("../mesh/mesh-corner.msh", degree, T, deltat, theta);
+      Heat problem("../mesh/mesh-square-h0.012500.msh", degree, T, deltat, theta);
 
       problem.setup();
       problem.solve();

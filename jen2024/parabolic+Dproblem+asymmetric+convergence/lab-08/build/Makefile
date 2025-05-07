@@ -57,10 +57,10 @@ RM = /u/sw/toolchains/gcc-glibc/11.2.0/base/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08
+CMAKE_SOURCE_DIR = /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build
+CMAKE_BINARY_DIR = /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

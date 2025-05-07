@@ -7,8 +7,8 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/common/cmake-common.cmake"
-  "/home/davide-villani/Desktop/PDE/tde01/parabolic+Dproblem+asymmetric+convergence/lab-08/CMakeLists.txt"
+  "/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/common/cmake-common.cmake"
+  "/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jen2024/parabolic+Dproblem+asymmetric+convergence/lab-08/CMakeLists.txt"
   "CMakeFiles/3.28.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.28.1/CMakeSystem.cmake"

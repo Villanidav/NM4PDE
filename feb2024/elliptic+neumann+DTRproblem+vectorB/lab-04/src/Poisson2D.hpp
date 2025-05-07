@@ -111,6 +111,7 @@ public:
     value(const Point<dim> &p,
           const unsigned int /*component*/ = 0) const override
     {
+      //return 0.0;
       return p[0]+p[1]-2;
     }
   };
@@ -128,6 +129,7 @@ public:
     value(const Point<dim> & p,
           const unsigned int /*component*/ = 0) const override
     {
+      // return std::sin(3.0* M_PI * p[0]) + std::sin(2.0 * M_PI p[1]);
       return p[0]+p[1];
     }
   };
@@ -145,6 +147,7 @@ public:
     value(const Point<dim> & p,
           const unsigned int /*component*/ = 0) const override
     {
+      //return 1.0;
       return 1.0 + p[0] + p[1];
     }
   };

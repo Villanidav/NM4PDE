@@ -1,4 +1,4 @@
-# Install script for directory: /home/davide-villani/Desktop/PDE/tde06/ex2/lab-09
+# Install script for directory: /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jun2024/ex2/lab-09
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/davide-villani/Desktop/PDE/tde06/ex2/lab-09/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jun2024/ex2/lab-09/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

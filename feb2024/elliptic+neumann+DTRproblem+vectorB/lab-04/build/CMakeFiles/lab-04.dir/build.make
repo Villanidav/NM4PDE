@@ -53,10 +53,10 @@ RM = /u/sw/toolchains/gcc-glibc/11.2.0/base/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04
+CMAKE_SOURCE_DIR = /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build
+CMAKE_BINARY_DIR = /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/lab-04.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/lab-04.dir/progress.make
 include CMakeFiles/lab-04.dir/flags.make
 
 CMakeFiles/lab-04.dir/src/lab-04.cpp.o: CMakeFiles/lab-04.dir/flags.make
-CMakeFiles/lab-04.dir/src/lab-04.cpp.o: /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp
+CMakeFiles/lab-04.dir/src/lab-04.cpp.o: /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp
 CMakeFiles/lab-04.dir/src/lab-04.cpp.o: CMakeFiles/lab-04.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab-04.dir/src/lab-04.cpp.o"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-04.dir/src/lab-04.cpp.o -MF CMakeFiles/lab-04.dir/src/lab-04.cpp.o.d -o CMakeFiles/lab-04.dir/src/lab-04.cpp.o -c /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab-04.dir/src/lab-04.cpp.o"
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-04.dir/src/lab-04.cpp.o -MF CMakeFiles/lab-04.dir/src/lab-04.cpp.o.d -o CMakeFiles/lab-04.dir/src/lab-04.cpp.o -c /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp
 
 CMakeFiles/lab-04.dir/src/lab-04.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab-04.dir/src/lab-04.cpp.i"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp > CMakeFiles/lab-04.dir/src/lab-04.cpp.i
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp > CMakeFiles/lab-04.dir/src/lab-04.cpp.i
 
 CMakeFiles/lab-04.dir/src/lab-04.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab-04.dir/src/lab-04.cpp.s"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp -o CMakeFiles/lab-04.dir/src/lab-04.cpp.s
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp -o CMakeFiles/lab-04.dir/src/lab-04.cpp.s
 
 CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o: CMakeFiles/lab-04.dir/flags.make
-CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o: /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp
+CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o: /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp
 CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o: CMakeFiles/lab-04.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o -MF CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o.d -o CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o -c /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o"
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o -MF CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o.d -o CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o -c /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp
 
 CMakeFiles/lab-04.dir/src/Poisson2D.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab-04.dir/src/Poisson2D.cpp.i"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp > CMakeFiles/lab-04.dir/src/Poisson2D.cpp.i
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp > CMakeFiles/lab-04.dir/src/Poisson2D.cpp.i
 
 CMakeFiles/lab-04.dir/src/Poisson2D.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab-04.dir/src/Poisson2D.cpp.s"
-	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp -o CMakeFiles/lab-04.dir/src/Poisson2D.cpp.s
+	/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp -o CMakeFiles/lab-04.dir/src/Poisson2D.cpp.s
 
 # Object files for target lab-04
 lab__04_OBJECTS = \
@@ -233,7 +233,7 @@ lab-04: /u/sw/toolchains/gcc-glibc/11.2.0/base/lib/libmpi_usempi_ignore_tkr.so
 lab-04: /u/sw/toolchains/gcc-glibc/11.2.0/base/lib/libmpi_mpifh.so
 lab-04: /u/sw/toolchains/gcc-glibc/11.2.0/base/lib/libmpi.so
 lab-04: CMakeFiles/lab-04.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable lab-04"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable lab-04"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab-04.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -245,6 +245,6 @@ CMakeFiles/lab-04.dir/clean:
 .PHONY : CMakeFiles/lab-04.dir/clean
 
 CMakeFiles/lab-04.dir/depend:
-	cd /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04 /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04 /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build /home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/lab-04.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04 /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04 /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build /home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/build/CMakeFiles/lab-04.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/lab-04.dir/depend
 

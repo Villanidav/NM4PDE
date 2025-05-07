@@ -6,6 +6,8 @@
 #include "Poisson2D.hpp"
 
 // Main function.
+
+// CHANGE THE HPP FOR THE EXERCISE 1.5
 int
 main(int /*argc*/, char * /*argv*/[])
 {

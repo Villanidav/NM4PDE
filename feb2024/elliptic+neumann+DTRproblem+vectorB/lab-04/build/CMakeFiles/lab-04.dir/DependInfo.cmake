@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp" "CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o" "gcc" "CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o.d"
-  "/home/davide-villani/Desktop/PDE/tde02/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp" "CMakeFiles/lab-04.dir/src/lab-04.cpp.o" "gcc" "CMakeFiles/lab-04.dir/src/lab-04.cpp.o.d"
+  "/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/Poisson2D.cpp" "CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o" "gcc" "CMakeFiles/lab-04.dir/src/Poisson2D.cpp.o.d"
+  "/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/feb2024/elliptic+neumann+DTRproblem+vectorB/lab-04/src/lab-04.cpp" "CMakeFiles/lab-04.dir/src/lab-04.cpp.o" "gcc" "CMakeFiles/lab-04.dir/src/lab-04.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
