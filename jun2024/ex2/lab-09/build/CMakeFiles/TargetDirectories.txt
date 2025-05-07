@@ -1,3 +1,0 @@
-/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jun2024/ex2/lab-09/build/CMakeFiles/lab-09.dir
-/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jun2024/ex2/lab-09/build/CMakeFiles/edit_cache.dir
-/home/davide-villani/Desktop/UNI/PDE/solutions/NM4PDE/jun2024/ex2/lab-09/build/CMakeFiles/rebuild_cache.dir

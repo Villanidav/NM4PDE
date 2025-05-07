@@ -1,3 +1,0 @@
-/home/davide-villani/Desktop/PDE/tde01/stokes+Nproblem+inlet/lab-09/build/CMakeFiles/lab-09.dir
-/home/davide-villani/Desktop/PDE/tde01/stokes+Nproblem+inlet/lab-09/build/CMakeFiles/edit_cache.dir
-/home/davide-villani/Desktop/PDE/tde01/stokes+Nproblem+inlet/lab-09/build/CMakeFiles/rebuild_cache.dir
