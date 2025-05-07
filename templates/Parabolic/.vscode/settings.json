@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/home/davide-villani/Desktop/PDE/templates/Parabolic/lab-08",
+    "files.associations": {
+        "random": "cpp",
+        "ostream": "cpp"
+    }
+}

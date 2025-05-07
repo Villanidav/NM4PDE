@@ -1,0 +1,1 @@
+/u/sw/toolchains/gcc-glibc/11.2.0/base/bin/mpicxx  -Wfloat-conversion -Wmissing-braces -Wnon-virtual-dtor -O3 -DNDEBUG "CMakeFiles/lab-08-exercise1_25.dir/src_k=25/lab-08-exercise1.cpp.o" "CMakeFiles/lab-08-exercise1_25.dir/src_k=25/Heat.cpp.o" -o lab-08-exercise1_25 

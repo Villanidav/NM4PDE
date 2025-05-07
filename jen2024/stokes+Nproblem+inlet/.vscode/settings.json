@@ -1,0 +1,13 @@
+{
+    "cmake.sourceDirectory": "/home/davide-villani/Desktop/PDE/tde01/stokes+Nproblem+inlet/lab-09",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp"
+    }
+}
